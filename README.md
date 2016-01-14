@@ -1,2 +1,3 @@
 # coolog
-real-time log aggregation kit 
+a simple real-time log aggregation kit 
+
